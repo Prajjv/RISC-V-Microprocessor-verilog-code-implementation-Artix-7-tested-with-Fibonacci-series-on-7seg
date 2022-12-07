@@ -1,0 +1,3 @@
+
+Here we are using Vivado HLx software to generate bitstream for Basys3 kit and using Artix-7.I have also shared .xdc file 
+for basys3.You have to customize .xdc file according to your requirement.  
